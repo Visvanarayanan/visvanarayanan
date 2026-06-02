@@ -1,13 +1,33 @@
-Hi, I'm Visvanarayanan 👋
+<div align="center">
 
-System Engineer with hands-on experience managing production Linux infrastructure, web hosting platforms, and cloud services.
+# 👋 Hi, I'm Visvanarayanan S
 
-🔹 Linux Administration
-🔹 Nginx & Apache
-🔹 Cloudflare & DNS Management
-🔹 AWS Cloud Services
-🔹 Server Security & Hardening
-🔹 Monitoring & Incident Response
-🔹 Bash Scripting & Automation
+### System Engineer | Linux Administrator | Cloud & Infrastructure Enthusiast
 
-Currently focused on building expertise in Cloud Engineering, DevOps, Kubernetes, Terraform, and Infrastructure Automation.
+Managing production Linux infrastructure, web hosting platforms, cloud services, and server security.
+
+</div>
+
+---
+
+### 🚀 Core Expertise
+
+* Linux System Administration
+* Nginx & Apache Administration
+* Cloudflare & DNS Management
+* AWS Cloud Services
+* SSL/TLS & Server Security
+* Monitoring & Incident Response
+* Bash Scripting & Automation
+
+### 🎯 Current Focus
+
+* AWS Solutions Architect
+* Docker & Kubernetes
+* Terraform
+* Ansible
+* DevOps & Infrastructure Automation
+
+### 📍 Location
+
+Chennai, Tamil Nadu, India
