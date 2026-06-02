@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Visvanarayanan 👋
 
-<!--
-**Visvanarayanan/visvanarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System Engineer with hands-on experience managing production Linux infrastructure, web hosting platforms, and cloud services.
 
-Here are some ideas to get you started:
+🔹 Linux Administration
+🔹 Nginx & Apache
+🔹 Cloudflare & DNS Management
+🔹 AWS Cloud Services
+🔹 Server Security & Hardening
+🔹 Monitoring & Incident Response
+🔹 Bash Scripting & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on building expertise in Cloud Engineering, DevOps, Kubernetes, Terraform, and Infrastructure Automation.
