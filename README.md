@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Visvanarayanan S
 
-### System Engineer | Linux Administrator | Cloud & Infrastructure Enthusiast
+### System Engineer | Linux Administrator
 
 Managing production Linux infrastructure, web hosting platforms, cloud services, and server security.
 
